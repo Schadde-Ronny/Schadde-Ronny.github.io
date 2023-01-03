@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Portrait</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="social">
+      <div class="items">
+        <a href="https://www.instagram.com/portraitliebefotografie/"
+          ><img src="./Instagram.jpg" alt="" class="insta"
+        /></a>
+        <a href="https://www.facebook.com/PortraitLiebeFotografie/"
+          ><img src="./Facebook.jpg" alt="" class="facebook"
+        /></a>
+      </div>
+    </div>
+    <div class="portrait">
+      <a href="./Bewerbung.html" class="startseite">Startseite</a>
+      <a href="./Kontakt.html" class="kontakt">Kontakt</a>
+      <img src="./PortraiLiebe.jpg" alt="Fotografie" />
+      <a href="" class="galerie">Galerie</a>
+      <a href="" class="fotobox">Fotobox</a>
+      <a href="" class="impressum">Impressum</a>
+    </div>
+
+    <div class="bild">
+      <img src="./Portrai.jpg" alt="" class="bild1" />
+    </div>
+    <div>
+      <h1>Dein Fotograf und Fotostudio in Chemnitz</h1>
+    </div>
+
+    <div class="bilder">
+      <div class="bilder2">
+        <a href="Portrait.html"><img src="./portarit3.jpg" alt="" /></a>
+        <a href="Familie.html"><img src="./Familie.jpg" alt="" /></a>
+      </div>
+    </div>
+    <div class="bilder3">
+      <div class="bilder4">
+        <a href="Business.html"><img src="./Business.jpg" alt="" /></a>
+        <a href="Erotik.html"
+          ><img src="./Erotik.jpg" alt="" class="schwanger"
+        /></a>
+      </div>
+    </div>
+    <div class="bilder5">
+      <div class="bilder6">
+        <a href="Schwanger.html"><img src="./Schwanger.jpg" alt="" /></a>
+      </div>
+    </div>
+
+    <div class="text">
+      <h2>Lass uns Erinnerungen schaffen</h2>
+      <h3>
+        Du suchst Passbilder, Bewerbungsbilder, Shootings für Dich, mit Freunden
+        und Familie oder Bilder für deine Firma? Wir bieten Dir alles rund um
+        das Thema Fotografie und Fotostudio. Hier trifft alt bewährte und
+        hochwertige Laborarbeit auf neue und frische Fotografie.
+      </h3>
+      <p>
+        Der Fokus unserer Fotografien liegt darin, Emotionen, Gefühle und
+        einmalige Momente für immer festzuhalten. Unsere Fotografien sollen
+        authentisch und lebendig sein, sodass man sich nie daran sattsieht. Sie
+        sollen diesen Moment immer wieder bei bloßem Betrachten erlebbar machen.
+        Mit liebevoll gestalteten Requisiten, dem Auge für das Detail und
+        liebevoller Arbeitsweise können die beim Betrachten geweckten Emotionen
+        sogar noch verstärkt werden. Damit werden sie zur bleibenden Erinnerung
+        gemacht.
+      </p>
+      <div class="button">
+        <button class="button1">Passbilder?</button>
+        <button class="button2">Bewerbungsbilder?</button>
+        <button class="button3">Jugendweihefotografie</button>
+      </div>
+    </div>
+  </body>
+</html>
